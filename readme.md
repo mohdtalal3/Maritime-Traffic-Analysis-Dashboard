@@ -4,6 +4,8 @@
 
 This project is an interactive web application that visualizes and analyzes maritime traffic data. It uses AIS (Automatic Identification System) data to display ship movements, types, and navigational statuses.
 
+![Screenshot 2024-08-02 201207](https://github.com/user-attachments/assets/3847a3f3-7d43-49b7-b662-993b5b654a26)
+
 ## Features
 
 - Interactive map visualization of ship movements
@@ -30,7 +32,6 @@ The project uses AIS data from the Danish Maritime Authority, available at [http
 
    ```bash
    git clone https://github.com/mohdtalal3/Maritime-Traffic-Analysis-Dashboard.git
-   cd NASDAQ-Option-Chain-Data-Scraper
     ```
 2. Install the required dependencies:
 
